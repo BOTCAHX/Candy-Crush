@@ -1,3 +1,7 @@
+### Hanya untuk Pc / Laptop 
+- karena Android tidak support jadi hanya perangkat pc saja
+
+
 # Candy-Crush
 - Sering ciptakan combo.
 - Bersihkan permen di deretan bawah.
